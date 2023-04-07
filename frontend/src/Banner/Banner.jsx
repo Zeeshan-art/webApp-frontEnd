@@ -13,8 +13,7 @@ const Banner = () => {
                                 <img src={logo} alt=""/>
                             </div>
 
-                            <div className='header-menu'>
-                                <ul>
+                                <ul className='header-menu'>
                                     <li>Home</li>
                                     <li>About</li>
                                     <li>Blog</li>
@@ -22,9 +21,15 @@ const Banner = () => {
                                     <li>Contact</li>
 
                                 </ul>
+
+
+                            <div className='help-btn'>
+                                <span className='btn-text'>Looking for help</span>
                             </div>
 
-                            <div className='help-btn'></div>
+                            <div className='login-btn'>
+                                <span className='log-btn-text'>Login</span>
+                            </div>
 
 
                         </div>

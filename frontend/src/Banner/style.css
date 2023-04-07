@@ -31,7 +31,16 @@
      width: 437px;
      height: 26px;
      left: 541px;
-     top: 35px;
+     top: 20px;
+     list-style: none;
+     display: flex;
+     gap: 49px;
+     text-align: center;
+ }
+
+ .header-menu>li:hover{
+    cursor: pointer;
+    color: #1ABF68;
  }
 
  .help-btn {
@@ -46,6 +55,59 @@
      background: #EEEDFF;
      border: 2px solid #EEEDFF;
      border-radius: 3px;
+ }
+
+ .btn-text {
+     position: absolute;
+     width: 118px;
+     height: 26px;
+     margin-left: 29px;
+     margin-top: 8px;
+     margin-bottom: 8px;
+     text-align: center;
+
+     font-family: 'Poppins';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 14px;
+     line-height: 26px;
+     /* identical to box height, or 186% */
+
+
+     color: #1ABF68;
+ }
+
+ .login-btn {
+     box-sizing: border-box;
+
+     position: absolute;
+     width: 112px;
+     height: 42px;
+     left: 1204px;
+     top: 27px;
+
+     background: #1ABF68;
+     border: 2px solid #1ABF68;
+     border-radius: 3px;
+ }
+
+ .log-btn-text {
+    position: absolute;
+    width: 47px;
+    height: 26px;
+    margin-left: 42px;
+    margin-top: 8px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    /* identical to box height, or 186% */
+    
+    
+    color: #FFFFFF;
+
  }
 
  .group-2444 {}
