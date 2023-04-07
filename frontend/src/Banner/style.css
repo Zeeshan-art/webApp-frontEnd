@@ -38,9 +38,9 @@
      text-align: center;
  }
 
- .header-menu>li:hover{
-    cursor: pointer;
-    color: #1ABF68;
+ .header-menu>li:hover {
+     cursor: pointer;
+     color: #1ABF68;
  }
 
  .help-btn {
@@ -92,22 +92,130 @@
  }
 
  .log-btn-text {
-    position: absolute;
-    width: 47px;
-    height: 26px;
-    margin-left: 42px;
-    margin-top: 8px;
-    
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 26px;
-    /* identical to box height, or 186% */
-    
-    
-    color: #FFFFFF;
+     position: absolute;
+     width: 47px;
+     height: 26px;
+     margin-left: 42px;
+     margin-top: 8px;
+
+     font-family: 'Poppins';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 14px;
+     line-height: 26px;
+     /* identical to box height, or 186% */
+
+
+     color: #FFFFFF;
 
  }
 
- .group-2444 {}
+ .rect-2 {
+     position: absolute;
+     width: 1366px;
+     height: 752px;
+     left: 0px;
+     top: 0px;
+ }
+
+ .title {
+     position: absolute;
+     width: 396px;
+     height: 120px;
+     left: 485px;
+     top: 266px;
+ }
+
+ .text-1 {
+     position: absolute;
+     width: 396px;
+     height: 60px;
+
+
+     font-family: 'Poppins';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 50px;
+     line-height: 60px;
+     /* identical to box height, or 120% */
+
+     text-align: center;
+
+     color: #2C2C51;
+ }
+
+ .text-2 {
+     position: absolute;
+     width: 223px;
+     height: 60px;
+     left: 90px;
+     top: 60px;
+
+     font-family: 'Poppins';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 24px;
+     line-height: 60px;
+     /* identical to box height, or 250% */
+
+     text-align: center;
+
+     color: #2C2C51;
+ }
+
+ .group-2385 {
+     position: absolute;
+     width: 1366px;
+     height: 752px;
+     left: 0px;
+     top: px;
+ }
+
+ .group-2443 {
+     position: absolute;
+     width: 1336px;
+     height: 356px;
+     left: 15px;
+     top: 433px;
+ }
+
+ .rect-search {
+     position: absolute;
+     width: 570px;
+     height: 60px;
+     left: 398px;
+     top: 60.23px;
+
+     background: #FFFFFF;
+     box-shadow: 0px 20px 50px rgba(8, 2, 46, 0.14);
+     border-radius: 0px;
+ }
+
+ .hint-search {
+     position: absolute;
+     width: 53px;
+     height: 26px;
+     left: 420px;
+     top: 75px;
+
+     font-family: 'Poppins';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 15px;
+     line-height: 26px;
+     /* identical to box height, or 173% */
+
+     color: #051441;
+
+     opacity: 0.5;
+ }
+
+ .side-rect {
+     position: absolute;
+     width: 4px;
+     height: 60px;
+     left: 394px;
+     top: 60.23px;
+
+     background: #19B565;
+ }
