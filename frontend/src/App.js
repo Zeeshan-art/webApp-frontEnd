@@ -1,6 +1,7 @@
 
 import './App.css';
 import Banner from './Banner/Banner';
+import Footer from './Footer/Footer';
 import Post from './Posts/Post';
 import Services from './Services/Services';
 
@@ -10,6 +11,7 @@ function App() {
     <Banner/>
     <Post/>
     <Services/>
+    <Footer/>
     </>
   );
 }

@@ -1,0 +1,81 @@
+.footer {
+    position: relative;
+    width: 1366px;
+    height: 567px;
+    left: 0px;
+    top: 0px;
+
+    background: #F6F6F6;
+    border-radius: 0px;
+}
+
+.group-2442 {
+    position: absolute;
+    width: 1170px;
+    height: 420px;
+    left: 98px;
+    top: 118px;
+}
+
+.group-2437 {
+    position: absolute;
+    width: 248px;
+    height: 220px;
+    left: 0px;
+    top: 0px;
+}
+
+.box {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 0px;
+    top: 182px;
+
+    background: #456BBA;
+}
+
+.content {
+
+    position: absolute;
+    width: 221px;
+    height: 46px;
+    left: 0px;
+    top: 67px;
+
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    font-family: 'Poppins';
+    font-style: normal;
+
+    color: #677294;
+}
+
+.routes {
+    position: absolute;
+    width: 100px;
+    height: 36px;
+    left: 152px;
+    top: 43px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 36px;
+    /* identical to box height, or 257% */
+
+
+    color: #69697B;
+}
+
+.bar {
+    position: absolute;
+    width: 1170px;
+    height: 1px;
+    left: 0px;
+    top: 363px;
+
+    background: #E4E1EA;
+}
