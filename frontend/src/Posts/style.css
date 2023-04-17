@@ -1,0 +1,142 @@
+.help-center {
+    position: relative;
+    width: 1366px;
+    height: 797px;
+    left: 0px;
+    top: 0px;
+    background: #F7F7F7;
+    border-radius: 0px;
+}
+
+.group-2386 {
+    position: absolute;
+    width: 201px;
+    height: 60px;
+    left: 583px;
+    top: 116px;
+}
+
+.cetagory-posts {
+    position: absolute;
+    width: 186px;
+    height: 17px;
+    left: 7px;
+    top: 8pxpx;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height, or 120% */
+
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+
+    color: #1ABF68;
+
+}
+
+.help-center-text {
+    position: absolute;
+    width: 201px;
+    height: 41px;
+
+    top: 19px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 41px;
+    /* identical to box height, or 120% */
+
+    text-align: center;
+
+    color: #373D46;
+
+}
+
+.group-2387 {
+    position: absolute;
+    width: 370px;
+    height: 385px;
+    left: 98px;
+    top: 249px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 6px 14px rgba(8, 2, 46, 0.04);
+    border-radius: 4px;
+}
+
+.group-2388 {
+    position: absolute;
+    width: 370px;
+    height: 385px;
+    left: 898px;
+    top: 249px;
+
+    background: #FFFFFF;
+    box-shadow: 1px 8px 16px rgba(8, 2, 46, 0.04);
+    border-radius: 4px;
+}
+
+.group-2389 {
+    position: absolute;
+    width: 370px;
+    height: 385px;
+    left: 498px;
+    top: 249px;
+
+
+    background: #FFFFFF;
+    box-shadow: 0px 6px 14px rgba(8, 2, 46, 0.04);
+    border-radius: 4px;
+}
+
+.circles{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 150px;
+    top: 42px;
+
+    box-shadow: 0px 20px 30px rgba(211, 149, 35, 0.3);
+    border-radius: 35px;
+}
+
+
+
+.textforPosts{
+    position: absolute;
+    width: 180px;
+    height: 30px;
+    left: 110px;
+    
+    top: 145px;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Poppins';
+    line-height: 24px;
+    
+}
+
+.posts{
+    position: absolute;
+    
+    left: 150px;
+    top: 179px;
+
+    font-size: 15px;
+    font-style: normal;
+    font-family: 'Poppins';
+    font-weight: 400;
+}
+
+.images{
+    position: absolute;
+    left: 86px;
+    bottom: 30px;
+}

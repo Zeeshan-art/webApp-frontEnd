@@ -1,0 +1,126 @@
+.services {
+    position: relative;
+    width: 1366px;
+    height: 954px;
+    left: 0px;
+    top: 0px;
+}
+
+.group-2445 {
+    position: absolute;
+    width: 1170px;
+    height: 759px;
+    left: 98px;
+    top: 115px;
+}
+
+.text-services {
+    position: absolute;
+    width: 77px;
+    height: 17px;
+    left: 547px;
+    top: 115px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height, or 120% */
+
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+
+    color: #1ABF68;
+}
+
+.get-involved {
+    position: absolute;
+    width: 213px;
+    height: 41px;
+    left: 479px;
+    top: 134px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 41px;
+    /* identical to box height, or 120% */
+
+    text-align: center;
+
+    color: #373D46;
+}
+
+.group-2447 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 370px;
+    height: 298px;
+    left: 400px;
+    top: 248px;
+
+    background: #FFFFFF;
+    border: 1px solid #F7F7F7;
+    box-shadow: 0px 20px 10px rgba(0, 0, 0, 0.03);
+    border-radius: 4px;
+}
+
+.green-bar {
+    position: absolute;
+    width: 370px;
+    height: 2px;
+    left: 0px;
+    top: 0px;
+
+    background: #11C296;
+    box-shadow: 0px 20px 10px rgba(0, 0, 0, 0.03);
+    border-radius: 4px;
+}
+
+.icon {
+    position: absolute;
+    left: 50px;
+    top: 41px;
+}
+
+.heading {
+    position: absolute;
+    left: 50px;
+    top: 135px;
+
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 400;
+    font-family: 'Poppins';
+    font-style: normal;
+
+}
+
+.short-line {
+    position: absolute;
+    width: 221px;
+    height: 46px;
+    left: 50px;
+    top: 174px;
+
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    font-family: 'Poppins';
+    font-style: normal;
+
+    color: #677294;
+}
+
+.groups {
+    position: absolute;
+    width: 370px;
+    height: 298px;
+    left: 98px;
+    top: 248px;
+
+}
